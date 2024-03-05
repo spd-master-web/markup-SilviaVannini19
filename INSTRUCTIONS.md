@@ -1,7 +1,7 @@
 # Instructions
 Create a single HTML page with the following contents. 
 
-It should contain a header with the title and the navigation linked to each of the following articles. Each article  should contain a:
+It should contain a header with the title and the navigation linked to each of the following articles. Each article should contain a:
 - title (heading)
 - abstract (paragraph with a class name)
 - description (paragraphs)
